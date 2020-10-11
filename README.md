@@ -27,6 +27,3 @@ Type the following command: <br/>
 - ```git push origin master``` (to upload your work to Github) <br/>
 
 
-2. Create a pull request <br/>
-Go to the remote repository in GitHub <br/>
-Create a pull request<br/>
